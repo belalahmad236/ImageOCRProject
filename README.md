@@ -1,6 +1,6 @@
 # Image OCR Project
 
-This project extracts text from images using Python, Pillow, and Tesseract OCR.
+This project extracts text from Multiple images using Python, Pillow, and Tesseract OCR.
 
 ## How to Run
 1. Install Python and Tesseract OCR.
