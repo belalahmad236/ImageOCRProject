@@ -11,5 +11,5 @@ This project extracts text from images using Python, Pillow, and Tesseract OCR.
 3. Place images in the images folder.
 
 4. Run:
-bash
+bash :
 python extract_text.py
